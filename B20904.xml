@@ -1,0 +1,489 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The prologue and epilogue to the city politicks</title>
+            <author>Crown, Mr. (John), 1640?-1712.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1683</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 9 KB of XML-encoded text transcribed from 2 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B20904</idno>
+            <idno type="STC">Wing C7398</idno>
+            <idno type="STC">ESTC R17456</idno>
+            <idno type="EEBO-CITATION">11752358</idno>
+            <idno type="OCLC">ocm 11752358</idno>
+            <idno type="VID">48608</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B20904)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 48608)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 885:13 or 1483:5)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The prologue and epilogue to the city politicks</title>
+                  <author>Crown, Mr. (John), 1640?-1712.</author>
+               </titleStmt>
+               <extent>1 sheet ([2] p.)   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Tho. Benskins ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1683.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Attributed to John Crowne by NUC pre-1956 imprints.</note>
+                  <note>Imprint from colophon.</note>
+                  <note>This item appears at reels 885:13 and 1483:5.</note>
+                  <note>Wing number B5068A cancelled in Wing (2nd ed.).</note>
+                  <note>Reproduction of originals in Harvard University Library and Huntington Library .</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-07</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2013-07</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2014-01</date>
+            <label>John Pas</label>Sampled and proofread</change>
+         <change>
+            <date>2014-01</date>
+            <label>John Pas</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:48608:1"/>
+            <pb facs="tcp:48608:1" rendition="simple:additions"/>
+            <head>THE Prologue and Epilogue TO THE City POLITICKS.</head>
+            <div type="prologue">
+               <head>The PROLOGUE ſpoken by Mr. <hi>SMITH.</hi>
+               </head>
+               <l>
+                  <hi>GOOD Heaven be thank'd, the frenzy of the Nation</hi>
+               </l>
+               <l>
+                  <hi>Begins to cure, and Wit to grow in faſhion:</hi>
+               </l>
+               <l>
+                  <hi>Long the Two Theatres did proudly jarr,</hi>
+               </l>
+               <l>
+                  <hi>And for chief ſway, like two Republicks Warr;</hi>
+               </l>
+               <l>
+                  <hi>When of the ſudden a devouring Hoſt</hi>
+               </l>
+               <l>
+                  <hi>Of dreadful Knights, (I ſay not of the Poſt)</hi>
+               </l>
+               <l>
+                  <hi>But ſtrange tongue Warriors over-run the Town,</hi>
+               </l>
+               <l>
+                  <hi>And blew the Stage, almoſt the Kingdom down.</hi>
+               </l>
+               <l>
+                  <hi>And with the Stage the Poets muſt expire,</hi>
+               </l>
+               <l>
+                  <hi>For Bells will melt, if Steeples be on Fire;</hi>
+               </l>
+               <lg>
+                  <l>
+                     <hi>Then Coffee-houſes Theatres were grown,</hi>
+                  </l>
+                  <l>
+                     <hi>Where Zealots acted in a furious tone</hi>
+                  </l>
+                  <l>Oliver<hi>'s Porter, Damming</hi> Babylon.</l>
+               </lg>
+               <l>
+                  <hi>But they more Mad; for he in his worſt Fit</hi>
+               </l>
+               <l>
+                  <hi>Was ne're ſo Mad as to talk TREASON yet.</hi>
+               </l>
+               <l>
+                  <hi>'Tis ſtrange thoſe Men ſhould wiſh the POPE ſuch evil,</hi>
+               </l>
+               <l>
+                  <hi>Who are ſo kind to the POPE's Friend, the DEVIL!</hi>
+               </l>
+               <l>
+                  <hi>They Drink, they Whore, and at there Rulers Rant,</hi>
+               </l>
+               <l>
+                  <hi>And all is well in a True PROTESTANT.</hi>
+               </l>
+               <l>
+                  <hi>Theſe follies have the Nation long employ'd,</hi>
+               </l>
+               <l>
+                  <hi>And almoſt all the POETS Trade deſtroy'd.</hi>
+               </l>
+               <l>
+                  <hi>That they may juſtly ſeek Reprizals now,</hi>
+               </l>
+               <l>
+                  <hi>And Board thoſe Pirates which brought them ſo low,</hi>
+               </l>
+               <l>
+                  <hi>Seize on that Ware by which ſome Men by ſtealth,</hi>
+               </l>
+               <l>
+                  <hi>Promote the Traffick of a Common-wealth:</hi>
+               </l>
+               <l>
+                  <hi>Ware ſome believe by Prieſts and Jeſuits Spunn,</hi>
+               </l>
+               <l>
+                  <hi>They Weave the Cloath, FANATICKS put it on.</hi>
+               </l>
+               <l>
+                  <hi>But ſome will ſay, a POET mend the Age!</hi>
+               </l>
+               <l>
+                  <hi>In theſe high matters how dare they engage?</hi>
+               </l>
+               <l>
+                  <hi>Why, SIRS, a Poets Reformation ſcorn;</hi>
+               </l>
+               <l>
+                  <hi>Since the Reformers now all Poets turn?</hi>
+               </l>
+               <l>
+                  <hi>And by their awkard jangling Rhimes proclaim,</hi>
+               </l>
+               <l>
+                  <hi>Like Bells rung backward, that the Towns on Flame?</hi>
+               </l>
+               <l>
+                  <hi>The City Whiggs ſuch curſed Poets chuſe,</hi>
+               </l>
+               <l>
+                  <hi>For that alone they ſhould their CHARTER loſe.</hi>
+               </l>
+               <l>
+                  <hi>He is a wretched Coxcomb, who believes</hi>
+               </l>
+               <l>
+                  <hi>Muſes, like JURIES, will be pack'd by SHERIFFS.</hi>
+               </l>
+               <lg>
+                  <l>
+                     <hi>But their ill Palate no fine dreſſing needs,</hi>
+                  </l>
+                  <l>
+                     <hi>All ſtuff that any Whiggiſh fancy breeds,</hi>
+                  </l>
+                  <l>
+                     <hi>They ſwallow down, and live like Ducks on Weeds.</hi>
+                  </l>
+               </lg>
+               <l>
+                  <hi>Theſe things give all the Nations round delight,</hi>
+               </l>
+               <l>
+                  <hi>Sure at our Fools to laugh we have moſt right.</hi>
+               </l>
+               <l>
+                  <hi>Let's not our mirth to foraign Kingdoms ſend,</hi>
+               </l>
+               <l>
+                  <hi>But here the growth of our own Country ſpend.</hi>
+               </l>
+               <l>
+                  <hi>Heaven knows that ſums the CAUSE has coſt this Town!</hi>
+               </l>
+               <l>
+                  <hi>Here you may have it all for Half-a-Crown.</hi>
+               </l>
+            </div>
+            <div type="epilogue">
+               <pb facs="tcp:48608:2"/>
+               <head>The EPILOGUE ſpoken by Mr. <hi>LEE</hi> in the Character of <hi>Bartaline</hi> the Old Lawyer.</head>
+               <stage>
+                  <hi>Enter a Gentleman to</hi> Bartaline.</stage>
+               <sp>
+                  <speaker>1. <hi>Gent.</hi>
+                  </speaker>
+                  <p>SIR, I come to you from certain worthy Gentlemen the world is pleaſed to call <hi>Whiggs.</hi>
+                  </p>
+               </sp>
+               <sp>
+                  <speaker>Bar. Whiggs?</speaker>
+                  <p>Sir, they are the Props and Pillars of the Nation.</p>
+               </sp>
+               <sp>
+                  <speaker>1. <hi>Gent.</hi>
+                  </speaker>
+                  <p>Sir, There is a Poet has been ſo bold as to write a Play againſt 'em, in which ſeveral of 'em think themſelves abuſed; now, Sir, they deſire to know if they have not an <hi>Action of Slander</hi> againſt the Poet?</p>
+               </sp>
+               <sp>
+                  <speaker>Bar.</speaker>
+                  <p>Ay, ay, Sir, he's a Raſcal.</p>
+               </sp>
+               <sp>
+                  <speaker>1. <hi>Gent.</hi>
+                  </speaker>
+                  <p>And may not have conſiderable dammages?</p>
+               </sp>
+               <sp>
+                  <speaker>Bar.</speaker>
+                  <p>Oh! very conſiderable—</p>
+               </sp>
+               <sp>
+                  <speaker>1. <hi>Gent.</hi>
+                  </speaker>
+                  <p>Here are Two Pieces.</p>
+               </sp>
+               <sp>
+                  <speaker>Bar.</speaker>
+                  <p>Two Pieces—? pretty indifferent dam<g ref="char:EOLhyphen"/>mages—I believe they may have ſome Dammages.</p>
+               </sp>
+               <sp>
+                  <speaker>1. <hi>Gent.</hi>
+                  </speaker>
+                  <p>Here's one great per<g ref="char:EOLhyphen"/>ſon thinks himſelf much abus'd, and has ſent you 20 Pieces.</p>
+               </sp>
+               <sp>
+                  <speaker>Bar.</speaker>
+                  <p>Sir, he ſhall have great Dammages, he ſhall trounce the Poet, a Raſcal to abuſe great perſons.</p>
+               </sp>
+               <sp>
+                  <speaker>1 <hi>Gent.</hi>
+                  </speaker>
+                  <p>He tell him. —</p>
+               </sp>
+               <stage>Ex.</stage>
+               <stage>
+                  <hi>Enter a ſecond</hi> Gent.</stage>
+               <sp>
+                  <speaker>2.</speaker>
+                  <p>Sir, I come to you from a perſon that wants your Councel, but he is a ſwingeing <hi>Tory.</hi>
+                  </p>
+               </sp>
+               <sp>
+                  <speaker>Bar.</speaker>
+                  <p>Well, he's ne're the worſe man, provided he has a ſwingeing Purſe.</p>
+               </sp>
+               <sp>
+                  <speaker>2.</speaker>
+                  <p>Sir, he has writ a Play againſt Faction, and ſome <hi>Whiggs</hi> think themſelves hit home in it, and they are bringing <hi>Actions of Slander</hi> againſt him to puniſh him.</p>
+               </sp>
+               <sp>
+                  <speaker>Bar.</speaker>
+                  <p>Sir, if he has hit the <hi>Whiggs</hi> home he is a good Marks-man, for now they are all upon the Wing.</p>
+               </sp>
+               <sp>
+                  <speaker>2.</speaker>
+                  <p>Sir, he deſires to know whether there lies an <hi>Action of Slander</hi> againſt him or no? and ſo, whether he had beſt compound the buſineſs in time, or go through with it?</p>
+               </sp>
+               <sp>
+                  <speaker>Bar.</speaker>
+                  <p>Oh! let him go through with it.</p>
+               </sp>
+               <sp>
+                  <speaker>2.</speaker>
+                  <p>And you will aſſiſt him?</p>
+               </sp>
+               <sp>
+                  <speaker>Bar.</speaker>
+                  <p>Ay, ay, in private.</p>
+               </sp>
+               <sp>
+                  <speaker>2.</speaker>
+                  <p>But he has no Money, he muſt Sue in <hi>Forma Pauperis.</hi>
+                  </p>
+               </sp>
+               <sp>
+                  <speaker>Bar.</speaker>
+                  <p>
+                     <hi>Forma Pauperis?</hi> Oh! damn'd Rogue, does he abuſe great men and has he no Money? Tell him I have conſider'd it, and I won't defend a ſlanderous Raſcal in abuſing honeſt men.</p>
+               </sp>
+               <sp>
+                  <speaker>2.</speaker>
+                  <p>You ſaid you would help him through with it.</p>
+               </sp>
+               <sp>
+                  <speaker>Bar.</speaker>
+                  <p>Ay, through the Pillory. A Raſcal without Money abuſe great men, and then Sue in <hi>Forma Pauperis</hi> —Come the Court is ſat —I muſt Plead for the Plaintiff.</p>
+               </sp>
+               <lg>
+                  <l>
+                     <hi>YOU Learned, Reverend Judges in this place,</hi>
+                  </l>
+                  <l>
+                     <hi>I come to Plead here in a weighty Caſe;</hi>
+                  </l>
+                  <l>
+                     <hi>And I beſeech you quickly make an end on't,</hi>
+                  </l>
+                  <l>
+                     <hi>The WHIGGS are Plaintiffs, POET is Defendant.</hi>
+                  </l>
+                  <l>
+                     <hi>I'me for the Plaintiffs, they have Coyn good ſtore;</hi>
+                  </l>
+                  <l>
+                     <hi>Poets are in the wrong, becauſe they're poor.</hi>
+                  </l>
+                  <l>
+                     <hi>And I ne're mind a Cauſe but as I'me Feed,</hi>
+                  </l>
+                  <l>
+                     <hi>Like Quacks, we Cure no Man that will not bleed.</hi>
+                  </l>
+                  <l>
+                     <hi>WHIGGS are my Clyents; And, my Lords, I ſay,</hi>
+                  </l>
+                  <l>
+                     <hi>They have been ſcandaliz'd in a damn'd Play,</hi>
+                  </l>
+                  <l>
+                     <hi>Which thoſe good men for buſy Fop's does jear,</hi>
+                  </l>
+                  <l>
+                     <hi>Who vigilant for Church and State appear.</hi>
+                  </l>
+                  <l>
+                     <hi>What if ſuch men ſhould have no wit at all?</hi>
+                  </l>
+                  <l>
+                     <hi>Pray did not Geeſe once ſave the Capital?</hi>
+                  </l>
+                  <l>
+                     <hi>But ſay theſe honeſt men be in the wrong,</hi>
+                  </l>
+                  <l>
+                     <hi>Railing does to no private men belong;</hi>
+                  </l>
+                  <l>
+                     <hi>Boldly to Rail is one of the chief ſpriggs</hi>
+                  </l>
+                  <l>
+                     <hi>Of the Prerogative of Prince of Whiggs;</hi>
+                  </l>
+                  <l>TITUS <hi>the firſt, who did that Power attain,</hi>
+                  </l>
+                  <l>—<hi>I take it</hi>—Anno primo—<hi>of his Reign</hi>—</l>
+                  <l>
+                     <hi>From WHIGGS, to whom by Cuſtome it bolongs,</hi>
+                  </l>
+                  <l>
+                     <hi>WHIGGS are all Freeholders of their Tongues,</hi>
+                  </l>
+                  <l>
+                     <hi>And Pens too.</hi>—</l>
+                  <l>
+                     <hi>I'le prove it out of</hi> Janeway<hi>'s Reports,</hi>
+                  </l>
+                  <l>
+                     <hi>And the Decrees of ſev'ral Coffee-Courts.</hi>
+                  </l>
+                  <l>
+                     <hi>The POET his no title then to rail,</hi>
+                  </l>
+                  <l>
+                     <hi>Let him be ſeiz'd, nor let Wit be his Bayl.</hi>
+                  </l>
+                  <l>
+                     <hi>Wit is a Tory, ne're with us would joyn,</hi>
+                  </l>
+                  <l>
+                     <hi>Wit never help d the Whiggs to write one Line.</hi>
+                  </l>
+                  <l>
+                     <hi>'T has been accus'd, and in our Writings ſought;</hi>
+                  </l>
+                  <l>
+                     <hi>But ſtill the Coroner</hi> Non inventus <hi>brought.</hi>
+                  </l>
+                  <l>
+                     <hi>But Learned Judges, I leave all to you,</hi>
+                  </l>
+                  <l>
+                     <hi>If you're for TORIES, I will be ſo too.</hi>
+                  </l>
+                  <l>
+                     <hi>Noint Witches, they will fly, though ne're ſo old;</hi>
+                  </l>
+                  <l>
+                     <hi>I'le be as nimble too, noint me with Gold:</hi>
+                  </l>
+                  <l>
+                     <hi>I'le quickly to the Tory party skip,</hi>
+                  </l>
+                  <l>
+                     <hi>Greaze my Fiſt well, I'le let our Faction ſlip.</hi>
+                  </l>
+               </lg>
+            </div>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>LONDON:</hi> Printed for <hi>Tho. Benskins</hi> in St. <hi>Brides Church yard,</hi> 1683.</p>
+            <pb facs="tcp:48608:2" rendition="simple:additions"/>
+         </div>
+      </back>
+   </text>
+</TEI>
